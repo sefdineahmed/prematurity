@@ -1,9 +1,6 @@
-Voici un fichier **README.md** bien structuré pour ton projet **Prematurity** :  
-
 ---
-
 # 🏥 Prematurity – Prédiction de l'Accouchement Prématuré  
-
+---
 ## 📌 Description  
 **Prematurity** est une application d'aide à la décision développée avec **Streamlit** qui permet de prédire le risque d'accouchement prématuré chez les femmes déjà en travail prématuré.  
 L'application utilise un modèle de **Machine Learning** entraîné sur un jeu de données contenant **13 variables prénatales** pour assister les professionnels de santé dans leurs prises de décision.  

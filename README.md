@@ -69,4 +69,4 @@ Ce projet vise à fournir un **outil d’aide à la décision** pour les profess
 
 ## 🧑‍💻 Contact  
 📩 **Email** : ahmed.sefdine@uadb.edu.sn  
-🔗 **LinkedIn** : [sefdineehmed](https://linkedin.com/in/sefdineahmed) 
+🔗 **LinkedIn** : [Sefdine Ahmed](https://linkedin.com/in/sefdineahmed) 
